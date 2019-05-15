@@ -7,14 +7,14 @@
 This tool scans the directory entered by the user and checks for the presence of ADS Attributes in the file
 
 
-#File Scanner
+# File Scanner
 
 ## File Scanner Tool
 
 File scanner tool scans the file in question and returns the time stamps of the os.stat attributes in an easier time format
 
 
-#Python hashing tool 
+# Python hashing tool 
 
 ## hashPy Tool
 
